@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "435413588556",
+    "firebase_url": "https://ruang-moklet.firebaseio.com",
+    "project_id": "ruang-moklet",
+    "storage_bucket": "ruang-moklet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435413588556:android:b525f81450358727",
+        "android_client_info": {
+          "package_name": "com.dycode.edu.ruangmoklet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "435413588556-q8l8hp30arr8t42gkgge5jkc7i1oapvd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dycode.edu.ruangmoklet",
+            "certificate_hash": "b49ab5e3a0518b0699a0bc5ad259e919af99809c"
+          }
+        },
+        {
+          "client_id": "435413588556-f711vfc75bvfa20qel8gd223ofkcktla.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoI65P7j2rP1PJeXOZeqgZQ6L6d8Sgrrw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "435413588556-f711vfc75bvfa20qel8gd223ofkcktla.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
